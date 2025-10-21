@@ -4,3 +4,10 @@
 !.gitignore
 !.tmux.conf
 !.config/nvim/*
+!.config/
+!.config/nvim/
+
+# Then re-include files inside nvim
+!.config/nvim/*
+# (optional) If you want to include subdirectories under nvim too:
+!.config/nvim/**
