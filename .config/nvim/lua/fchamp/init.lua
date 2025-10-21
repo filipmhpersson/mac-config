@@ -1,0 +1,5 @@
+require("fchamp.colors")
+require("fchamp.formatting")
+require("fchamp.lsp")
+require("fchamp.picker")
+require("fchamp.oil")
