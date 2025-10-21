@@ -3,4 +3,4 @@
 # But not these files...
 !.gitignore
 !.tmux.conf
-!.config/nvim/**
+!.config/nvim/*
